@@ -2,7 +2,7 @@
 - 👀 I’m interested in art
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on copy writing
-- 📫 How to reach me at my desk
+- 📫 How to reach me: my desk
 
 <!---
 Robert-Scub/Robert-Scub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
